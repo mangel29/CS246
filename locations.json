@@ -1,0 +1,404 @@
+{
+"Locations": [
+{
+	"name": "Space Needle"
+    "city": "Seattle",
+    "state": "Washington",
+    "highway": "I-5",
+    "longitude": 47.6205,
+	"latitude": 122.3493 
+},
+{
+	"name": "Alcatraz"
+    "city": "San Francisco",
+    "state": "California",
+    "highway": "I-5",
+    "longitude": 37.8270,
+	"latitude": 122.4230 
+},
+{
+	"name": "Fisherman’s Wharf"
+    "city": "San Francisco",
+    "state": "California",
+    "highway": "I-5",
+    "longitude": 37.8080,
+	"latitude": 122.4177 
+},
+{
+	"name": "Six Flags Magic Mountain"
+    "city": "Santa Clarita",
+    "state": "California",
+    "highway": "I-5",
+    "longitude": 34.4253,
+	"latitude": 118.5972 
+},
+{
+	"name": "Universal Studios"
+    "city": "Hollywood",
+    "state": "California",
+    "highway": "I-5",
+    "longitude": 34.1381,
+	"latitude": 118.3534 
+},
+{
+	"name": "Grauman’s Chines Theater"
+    "city": "Hollywood",
+    "state": "California",
+    "highway": "I-5",
+    "longitude": 34.1020,
+	"latitude": 118.3410 
+},
+{
+	"name": "Santa Monica Pier"
+    "city": "Santa Monica",
+    "state": "California",
+    "highway": "I-5",
+    "longitude": 34.0099,
+	"latitude": 118.4960 
+},
+{
+	"name": "Disneyland"
+    "city": "Anaheim",
+    "state": "California",
+    "highway": "I-5",
+    "longitude": 33.8121,
+	"latitude": 117.9190 
+},
+{
+	"name": "San Diego Zoo"
+    "city": "San Diego",
+    "state": "California",
+    "highway": "I-5",
+    "longitude": 32.7353,
+	"latitude": 117.1490 
+},
+{
+	"name": "Big Talbot Island"
+    "city": "Jacksonville",
+    "state": "Florida",
+    "highway": "I-10",
+    "longitude": 30.4831,
+	"latitude": 81.4400 
+},
+{
+	"name": "USS Alabama Battleship"
+    "city": "Mobile",
+    "state": "Alabama",
+    "highway": "I-10",
+    "longitude": 30.6818,
+	"latitude": 88.0144 
+},
+{
+	"name": "Dauphin Island"
+    "city": "Mobile",
+    "state": "Alabama",
+    "highway": "I-10",
+    "longitude": 30.2543,
+	"latitude": 88.1124 
+},
+{
+	"name": "National WWII Museum"
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "highway": "I-10",
+    "longitude": 29.9431,
+	"latitude": 90.0705 
+},
+{
+	"name": "Historic French Quarter"
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "highway": "I-10",
+    "longitude": 29.9584,
+	"latitude": 90.0644 
+},
+{
+	"name": "Space Center"
+    "city": "Houston",
+    "state": "Texas",
+    "highway": "I-10",
+    "longitude": 29.5518,
+	"latitude": 95.0983 
+},
+{
+	"name": "The Alamo"
+    "city": "San Antonio",
+    "state": "Texas",
+    "highway": "I-10",
+    "longitude": 29.4260,
+	"latitude": 98.4861 
+},
+{
+	"name": "Saguaro National Park"
+    "city": "Tuscon",
+    "state": "Arizona",
+    "highway": "I-10",
+    "longitude": 32.2967,
+	"latitude": 111.1666 
+},
+{
+	"name": "Cathedral of St. Helena"
+    "city": "Helena",
+    "state": "Montana",
+    "highway": "I-15",
+    "longitude": 46.5901,
+	"latitude": 112.0337 
+},
+{
+	"name": "Yellowstone National Park"
+    "city": "Bozeman",
+    "state": "Montana",
+    "highway": "I-15",
+    "longitude": 44.4280,
+	"latitude": 110.5885 
+},
+{
+	"name": "Park City"
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "highway": "I-15",
+    "longitude": 40.6461,
+	"latitude": 111.4980 
+},
+{
+	"name": "Temple Square"
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "highway": "I-15",
+    "longitude": 40.7707,
+	"latitude": 111.8911 
+},
+{
+	"name": "Zion National Park"
+    "city": "St George",
+    "state": "Utah",
+    "highway": "I-15",
+    "longitude": 37.2982,
+	"latitude": 113.0263 
+},
+{
+	"name": "Las Vegas Strip"
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "highway": "I-15",
+    "longitude": 36.1147,
+	"latitude": 115.1728 
+},
+{
+	"name": "Lake Superior"
+    "city": "Duluth",
+    "state": "Minnesota",
+    "highway": "I-35",
+    "longitude": 47.7231,
+	"latitude": 86.9407 
+},
+{
+	"name": "Mall of America"
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "highway": "I-35",
+    "longitude": 44.8549,
+	"latitude": 93.2422 
+},
+{
+	"name": "Des Moines Art Center"
+    "city": "Des Moines",
+    "state": "Iowa",
+    "highway": "I-35",
+    "longitude": 41.5839,
+	"latitude": 93.6812 
+},
+{
+	"name": "Kansas City Science Museum"
+    "city": "Kansas City",
+    "state": "Missouri",
+    "highway": "I-35",
+    "longitude": 39.1158,
+	"latitude": 94.54241 
+},
+{
+	"name": "San Antonio Riverwalk"
+    "city": "San Antonio",
+    "state": "Texas",
+    "highway": "I-35",
+    "longitude": 29.4248,
+	"latitude": 98.4885 
+},
+{
+	"name": "The Art Institute of Chicago"
+    "city": "Chicago",
+    "state": "Illinois",
+    "highway": "I-55",
+    "longitude": 41.8796,
+	"latitude": 87.6237 
+},
+{
+	"name": "Lincoln Home"
+    "city": "Springfield",
+    "state": "Illinois",
+    "highway": "I-55",
+    "longitude": 39.7974,
+	"latitude": 89.6449 
+},
+{
+	"name": "Gateway Arch"
+    "city": "St. Louis",
+    "state": "Missouri",
+    "highway": "I-55",
+    "longitude": 38.6247,
+	"latitude": 90.1848 
+},
+{
+	"name": "Graceland"
+    "city": "Memphis",
+    "state": "Tennessee",
+    "highway": "I-55",
+    "longitude": 35.0477,
+	"latitude": 90.0260 
+},
+{
+	"name": "Statue of Liberty"
+    "city": "New York",
+    "state": "New York",
+    "highway": "I-80",
+    "longitude": 40.6892,
+	"latitude": 74.0445 
+},
+{
+	"name": "Times Square"
+    "city": "New York",
+    "state": "New York",
+    "highway": "I-80",
+    "longitude": 40.7580,
+	"latitude": 73.9855 
+},
+{
+	"name": "Rock and Roll Hall of Fame"
+    "city": "Cleveland",
+    "state": "Ohio",
+    "highway": "I-80",
+    "longitude": 41.5085,
+	"latitude": 81.6954 
+},
+{
+	"name": "Wells Fargo Museum"
+    "city": "Des Moines",
+    "state": "Iowa",
+    "highway": "I-80",
+    "longitude": 33.4490,
+	"latitude": 112.0758 
+},
+{
+	"name": "Flaming Gorge"
+    "city": "Rock Springs",
+    "state": "Wyoming",
+    "highway": "I-80",
+    "longitude": 41.5875,
+	"latitude": 109.2029 
+},
+{
+	"name": "New England Aquarium"
+    "city": "Boston",
+    "state": "Massachusetts",
+    "highway": "I-90",
+    "longitude": 42.3591,
+	"latitude": 71.0498 
+},
+{
+	"name": "Boston Tea Party Ships and Museum"
+    "city": "Boston",
+    "state": "Massachusetts",
+    "highway": "I-90",
+    "longitude": 42.3522,
+	"latitude": 71.0513 
+},
+{
+	"name": "Niagara Falls"
+    "city": "Niagara Falls",
+    "state": "New York",
+    "highway": "I-90",
+    "longitude": 43.0962,
+	"latitude": 79.0377 
+},
+{
+	"name": "Wisconsin Dells"
+    "city": "Wisconsin Dells",
+    "state": "Wisconsin",
+    "highway": "I-90",
+    "longitude": 43.6275,
+	"latitude": 89.7710 
+},
+{
+	"name": "Mount Rushmore"
+    "city": "Rapid City",
+    "state": "South Dakota",
+    "highway": "I-90",
+    "longitude": 43.8791,
+	"latitude": 103.4591 
+},
+{
+	"name": "Old Port"
+    "city": "Portland",
+    "state": "Maine",
+    "highway": "I-95",
+    "longitude": 43.6573,
+	"latitude": 70.2534 
+},
+{
+	"name": "Salem Witch Trials Memorial"
+    "city": "Salem",
+    "state": "Massachusetts",
+    "highway": "I-95",
+    "longitude": 42.5209,
+	"latitude": 70.8918 
+},
+{
+	"name": "Plymouth Rock"
+    "city": "Plymouth",
+    "state": "Massachusetts",
+    "highway": "I-95",
+    "longitude": 41.9581,
+	"latitude": 70.6621 
+},
+{
+	"name": "Independence Hall"
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "highway": "I-95",
+    "longitude": 39.9489,
+	"latitude": 75.1500 
+},
+{
+	"name": "The Smithsonian Museum"
+    "city": "Washington",
+    "state": "D.C.",
+    "highway": "I-95",
+    "longitude": 38.8860,
+	"latitude": 77.0214 
+},
+{
+	"name": "The Lincoln Memorial"
+    "city": "Washington",
+    "state": "D.C.",
+    "highway": "I-95",
+    "longitude": 38.8893,
+	"latitude": 77.0502 
+},
+{
+	"name": "Disney World"
+    "city": "Orlando",
+    "state": "Florida",
+    "highway": "I-95",
+    "longitude": 28.3852,
+	"latitude": 81.5639 
+},
+{
+	"name": "Miami Beach"
+    "city": "Miami",
+    "state": "Florida",
+    "highway": "I-95",
+    "longitude": 25.7907,
+	"latitude": 80.1300 
+},
+]
+}
